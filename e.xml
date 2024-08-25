@@ -47727,6 +47727,9 @@
 	<programme channel="惊悚悬疑" start="20240825090300 +0800" stop="20240825103000 +0800">
 		<title lang="zh">夜惊魂</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20240825103000 +0800" stop="20240825115500 +0800">
+		<title lang="zh">夜幕惊魂</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -50876,6 +50879,9 @@
 	</programme>
 	<programme channel="明星大片" start="20240825094900 +0800" stop="20240825103500 +0800">
 		<title lang="zh">07_长相思</title>
+	</programme>
+	<programme channel="明星大片" start="20240825103500 +0800" stop="20240825113100 +0800">
+		<title lang="zh">08_长相思</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -73026,6 +73032,9 @@
 	<programme channel="纯享4K" start="20240825100900 +0800" stop="20240825102400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 品读掷铁饼者</title>
 	</programme>
+	<programme channel="纯享4K" start="20240825102400 +0800" stop="20240825111300 +0800">
+		<title lang="zh">世界遗产漫步4K 第1集 丽江</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -89340,6 +89349,9 @@
 	<programme channel="黑莓动画" start="20240825100900 +0800" stop="20240825103600 +0800">
 		<title lang="zh">百变校巴8</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240825103600 +0800" stop="20240825112200 +0800">
+		<title lang="zh">汪汪队立大功第3季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -89357,6 +89369,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240825083200 +0800" stop="20240825101700 +0800">
 		<title lang="zh">A计划</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240825101700 +0800" stop="20240825115200 +0800">
+		<title lang="zh">打过长江去</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -90447,6 +90462,9 @@
 	<programme channel="newtv超级综艺" start="20240825093100 +0800" stop="20240825102100 +0800">
 		<title lang="zh">回声嘹亮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240825102100 +0800" stop="20240825112100 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -90461,6 +90479,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240825090500 +0800" stop="20240825103000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 体操单项决赛3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240825103000 +0800" stop="20240825120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 男排决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -90567,6 +90588,9 @@
 	<programme channel="newtv精品大剧" start="20240825094500 +0800" stop="20240825103800 +0800">
 		<title lang="zh">21_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240825103800 +0800" stop="20240825112200 +0800">
+		<title lang="zh">22_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -90612,6 +90636,9 @@
 	<programme channel="newtv精品纪录" start="20240825092700 +0800" stop="20240825102800 +0800">
 		<title lang="zh">第5集：穿越周期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240825102800 +0800" stop="20240825112600 +0800">
+		<title lang="zh">03_我们的征途</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -90650,6 +90677,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240825092800 +0800" stop="20240825102200 +0800">
 		<title lang="zh">20_大戏法</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240825102200 +0800" stop="20240825110700 +0800">
+		<title lang="zh">21_大戏法</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -90693,6 +90723,9 @@
 	<programme channel="newtv军旅剧场" start="20240825100000 +0800" stop="20240825104500 +0800">
 		<title lang="zh">20_参工传奇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240825104500 +0800" stop="20240825113900 +0800">
+		<title lang="zh">21_参工传奇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -90734,6 +90767,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240825095800 +0800" stop="20240825104400 +0800">
 		<title lang="zh">20_父辈的荣耀</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240825104400 +0800" stop="20240825112900 +0800">
+		<title lang="zh">21_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -90915,6 +90951,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240825093400 +0800" stop="20240825102800 +0800">
 		<title lang="zh">27_梅花红桃</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240825102800 +0800" stop="20240825111400 +0800">
+		<title lang="zh">28_梅花红桃</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -90998,6 +91037,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240825101000 +0800" stop="20240825103200 +0800">
 		<title lang="zh">万吨大驱南海砺剑</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240825103200 +0800" stop="20240825105400 +0800">
+		<title lang="zh">屡遭摧毁的“艾布拉姆斯”坦克</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -91098,6 +91140,9 @@
 	<programme channel="newtv精品综合" start="20240825094900 +0800" stop="20240825103500 +0800">
 		<title lang="zh">07_长相思</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240825103500 +0800" stop="20240825113100 +0800">
+		<title lang="zh">08_长相思</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -91118,6 +91163,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240825090300 +0800" stop="20240825103000 +0800">
 		<title lang="zh">夜惊魂</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240825103000 +0800" stop="20240825115500 +0800">
+		<title lang="zh">夜幕惊魂</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
