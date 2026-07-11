@@ -59979,6 +59979,9 @@
 	<programme channel="newtv超级综艺" start="20260711214500 +0800" stop="20260711230200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260711230200 +0800" stop="20260711234700 +0800">
+		<title lang="zh">23_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60033,6 +60036,9 @@
 	<programme channel="newtv超级体育" start="20260711220000 +0800" stop="20260711230000 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-如约而至-30</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260711230000 +0800" stop="20260711013500 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-女单决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60083,6 +60089,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260711213500 +0800" stop="20260711230000 +0800">
 		<title lang="zh">暗影</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260711230000 +0800" stop="20260711003100 +0800">
+		<title lang="zh">暗影2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60176,6 +60185,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260711223200 +0800" stop="20260711231800 +0800">
 		<title lang="zh">29_小重逢</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260711231800 +0800" stop="20260711000300 +0800">
+		<title lang="zh">30_小重逢</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60824,6 +60836,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260711221700 +0800" stop="20260711224700 +0800">
 		<title lang="zh">肉苁蓉粉 仙草姬国药药材</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260711224700 +0800" stop="20260711233000 +0800">
+		<title lang="zh">01_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260711233000 +0800" stop="20260711000500 +0800">
+		<title lang="zh">鲜蓉阿拉善荒漠肉苁蓉原浆-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
