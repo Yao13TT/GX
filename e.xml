@@ -50118,6 +50118,9 @@
 	<programme channel="newtv超级综艺" start="20260808022600 +0800" stop="20260808031200 +0800">
 		<title lang="zh">07_骄阳似我</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260808031200 +0800" stop="20260808035700 +0800">
+		<title lang="zh">08_骄阳似我</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50139,6 +50142,9 @@
 	<programme channel="newtv超级电影" start="20260808012200 +0800" stop="20260808023600 +0800">
 		<title lang="zh">暴走兄弟</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260808023600 +0800" stop="20260808035600 +0800">
+		<title lang="zh">小龙虾游山庄</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50150,6 +50156,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260808015500 +0800" stop="20260808024000 +0800">
 		<title lang="zh">02_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808024000 +0800" stop="20260808032500 +0800">
+		<title lang="zh">03_蛮好的人生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260808032500 +0800" stop="20260808041100 +0800">
+		<title lang="zh">04_蛮好的人生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50711,6 +50723,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260808021500 +0800" stop="20260808025900 +0800">
 		<title lang="zh">18_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808025900 +0800" stop="20260808032900 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260808032900 +0800" stop="20260808041200 +0800">
+		<title lang="zh">19_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
