@@ -59220,6 +59220,9 @@
 	<programme channel="newtv超级综艺" start="20260812215700 +0800" stop="20260812231400 +0800">
 		<title lang="zh">爱上这座城</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260812231400 +0800" stop="20260812000100 +0800">
+		<title lang="zh">33_骄阳似我</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59325,6 +59328,9 @@
 	<programme channel="newtv超级电影" start="20260812214800 +0800" stop="20260812231500 +0800">
 		<title lang="zh">复仇者格林：战事再起</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260812231500 +0800" stop="20260812004900 +0800">
+		<title lang="zh">垫底联盟</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59414,6 +59420,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260812215100 +0800" stop="20260812223700 +0800">
 		<title lang="zh">30_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812223700 +0800" stop="20260812232200 +0800">
+		<title lang="zh">31_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812232200 +0800" stop="20260812000800 +0800">
+		<title lang="zh">32_辣妈正传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60068,6 +60080,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260812223400 +0800" stop="20260812231800 +0800">
 		<title lang="zh">21_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812231800 +0800" stop="20260812234800 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
