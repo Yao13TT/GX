@@ -59016,6 +59016,9 @@
 	<programme channel="newtv超级综艺" start="20260813222000 +0800" stop="20260813231000 +0800">
 		<title lang="zh">远山之约</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260813231000 +0800" stop="20260813235800 +0800">
+		<title lang="zh">03_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59078,6 +59081,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260813220500 +0800" stop="20260813230500 +0800">
 		<title lang="zh">足球之夜</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260813230500 +0800" stop="20260813000500 +0800">
+		<title lang="zh">实况录像-2026年世界二十岁以下田径锦标赛 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59216,6 +59222,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260813220700 +0800" stop="20260813225200 +0800">
 		<title lang="zh">33_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813225200 +0800" stop="20260813233800 +0800">
+		<title lang="zh">34_辣妈正传</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260813233800 +0800" stop="20260813002300 +0800">
+		<title lang="zh">35_辣妈正传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59870,6 +59882,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260813222600 +0800" stop="20260813231000 +0800">
 		<title lang="zh">26_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260813231000 +0800" stop="20260813235400 +0800">
+		<title lang="zh">27_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
