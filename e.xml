@@ -17616,6 +17616,9 @@
 	<programme channel="咪咕足球" start="20260823135000 +0800" stop="20260823144000 +0800">
 		<title lang="zh">最后之舞</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260823144500 +0800" stop="20260823154500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59429,6 +59432,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20260823132900 +0800" stop="20260823144600 +0800">
 		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260823144600 +0800" stop="20260823160300 +0800">
+		<title lang="zh">星光大道</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
