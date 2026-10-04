@@ -17691,6 +17691,9 @@
 	<programme channel="咪咕综合体育" start="20261004170000 +0800" stop="20261004220000 +0800">
 		<title lang="zh">国球荣耀-2026WTT中国大满贯 单打1/32决赛、混双1/16决赛2 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261004220500 +0800" stop="20261004234500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/4决赛 法国-摩洛哥</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17756,6 +17759,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261004183000 +0800" stop="20261004184500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261004184500 +0800" stop="20261004202500 +0800">
+		<title lang="zh">决胜时刻</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261004202500 +0800" stop="20261004204000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261004204000 +0800" stop="20261004221000 +0800">
+		<title lang="zh">中国篮球时刻-2027男篮世预赛亚洲区第二阶段 中国-黎巴嫩</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261004221000 +0800" stop="20261004222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261004222000 +0800" stop="20261004000000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第11轮 上海浦发银行-新疆天山</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59091,6 +59109,18 @@
 	<programme channel="newtv超级综艺" start="20261004173500 +0800" stop="20261004185900 +0800">
 		<title lang="zh">国风超有戏b7寻风季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261004185900 +0800" stop="20261004201600 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261004201600 +0800" stop="20261004215100 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261004215100 +0800" stop="20261004230800 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261004230800 +0800" stop="20261004235200 +0800">
+		<title lang="zh">33_最好的时代</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59136,6 +59166,15 @@
 	<programme channel="newtv超级体育" start="20261004170000 +0800" stop="20261004183500 +0800">
 		<title lang="zh">2026年亚运会-闭幕式</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261004183500 +0800" stop="20261004213500 +0800">
+		<title lang="zh">WTT中国大满贯2026-第1轮</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261004213500 +0800" stop="20261004223500 +0800">
+		<title lang="zh">实况录像-2026年亚运会 游泳比赛2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261004223500 +0800" stop="20261004000500 +0800">
+		<title lang="zh">实况录像-2026年亚运会 男排决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59177,6 +59216,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261004171400 +0800" stop="20261004190600 +0800">
 		<title lang="zh">告密者</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261004190600 +0800" stop="20261004205700 +0800">
+		<title lang="zh">消防犬</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261004205700 +0800" stop="20261004215800 +0800">
+		<title lang="zh">一路囧途</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261004215800 +0800" stop="20261004234600 +0800">
+		<title lang="zh">临时决斗</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59255,6 +59303,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261004181300 +0800" stop="20261004185900 +0800">
 		<title lang="zh">01_纯真年代的爱情</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004185900 +0800" stop="20261004194400 +0800">
+		<title lang="zh">05_北上广不相信眼泪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004194400 +0800" stop="20261004202700 +0800">
+		<title lang="zh">06_北上广不相信眼泪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004202700 +0800" stop="20261004211200 +0800">
+		<title lang="zh">07_北上广不相信眼泪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004211200 +0800" stop="20261004215800 +0800">
+		<title lang="zh">20_流水迢迢</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004215800 +0800" stop="20261004224400 +0800">
+		<title lang="zh">21_流水迢迢</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261004224400 +0800" stop="20261004233100 +0800">
+		<title lang="zh">22_流水迢迢</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59891,6 +59957,27 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261004183400 +0800" stop="20261004191800 +0800">
 		<title lang="zh">17_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004191800 +0800" stop="20261004195300 +0800">
+		<title lang="zh">泰国进口KAVAGOOD睡眠香膏-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004195300 +0800" stop="20261004204100 +0800">
+		<title lang="zh">18_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004204100 +0800" stop="20261004211600 +0800">
+		<title lang="zh">宫廷药源堂长白山20年野山参粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004211600 +0800" stop="20261004220000 +0800">
+		<title lang="zh">01_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004220000 +0800" stop="20261004224400 +0800">
+		<title lang="zh">02_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004224400 +0800" stop="20261004231400 +0800">
+		<title lang="zh">巴科隆钛养生壶 CD-E318</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261004231400 +0800" stop="20261004235800 +0800">
+		<title lang="zh">03_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
